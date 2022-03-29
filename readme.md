@@ -8,6 +8,6 @@
 
 ---
 
-공개된 솔루션은 [skh-2022.pdf](/skh-2022.pdf)에 나와 있습니다. 
+공개된 솔루션은 [skh-2022.pdf](https://github.com/LEEYEONGJAE1/SKH2022/blob/master/skh_2022.pdf)에 나와 있습니다. 
 
 ---
