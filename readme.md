@@ -8,6 +8,10 @@
 
 ---
 
-공개된 솔루션은 [skh-2022.pdf](https://github.com/LEEYEONGJAE1/SKH2022/blob/master/skh_2022.pdf)에 나와 있습니다. 
+내가 출제한 문제 
+* [주식](https://www.acmicpc.net/problem/24885)
+* [SKH 문자열](https://www.acmicpc.net/problem/24886)
 
 ---
+
+공개된 솔루션은 [skh-2022.pdf](https://github.com/LEEYEONGJAE1/SKH2022/blob/master/skh_2022.pdf)에 나와 있습니다. 
